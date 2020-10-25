@@ -1,3 +1,3 @@
 # ShellScript
 
-Scripts for automating Linux virtual machines routines in AWS or Azure Cloud.
+Codes for ShellScript logic and syntatic/semantic examples.
